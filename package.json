@@ -1,0 +1,20 @@
+{
+  "name": "parcel-svgo-plugins-warning",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Andrew Stegmaier <ansteg@microsoft.com>",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "clean": "rimraf dist && rimraf .parcel-cache"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "2.0.0-rc.0",
+    "rimraf": "^3.0.2"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
