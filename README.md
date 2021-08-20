@@ -1,6 +1,6 @@
 # parcel-svgo-plugins-warning
 
-This repo illustrates an issue with `parcel` `2.0.0-rc.0` where `parcel build` will output a deprecation warning.
+This repo illustrates [an issue with `parcel` `2.0.0-rc.0`](https://github.com/parcel-bundler/parcel/issues/6744) where `parcel build` will output a deprecation warning.
 
 ## Repro steps
 
